@@ -9,6 +9,8 @@ sudo cp kicad-10.0.6-x86_64.AppImage /var/lib/flatpak/exports/share/applications
 # Symbol anlegen
 nano ~/.local/share/applications/kicad.desktop
 
+# Symbol ablegen unter .local/share/applications/org.kicad.KiCad
+
 # ########## ~/.local/share/applications/kicad.desktop ##########
 [Desktop Entry]
 Name=KiCad 10.0.6 (AppImage)
